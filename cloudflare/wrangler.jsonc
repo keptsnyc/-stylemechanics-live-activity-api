@@ -1,0 +1,8 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "stylemechanics-live",
+  "main": "src/worker.mjs",
+  "compatibility_date": "2026-10-17",
+  "workers_dev": true,
+  "keep_vars": true
+}
