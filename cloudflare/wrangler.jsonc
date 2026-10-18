@@ -4,5 +4,12 @@
   "main": "src/worker.mjs",
   "compatibility_date": "2026-10-17",
   "workers_dev": true,
-  "keep_vars": true
+  "keep_vars": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "stylemechanics-live-db",
+      "database_id": "b1071765-bc12-4abb-9cc3-39d3d157cf8f"
+    }
+  ]
 }
